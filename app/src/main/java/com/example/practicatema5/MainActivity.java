@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        setTitle("Inicio");
 
         Toast =(Button)findViewById(R.id.btnToast);
         Toast.setOnClickListener(new View.OnClickListener() {
