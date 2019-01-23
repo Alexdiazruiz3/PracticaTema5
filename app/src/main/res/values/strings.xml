@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PracticaTema5</string>
+    <string name="btnToast">Toast</string>
+    <string name="btnNotificacion">Notificación</string>
+    <!-- TOAST ACTIVITY-->
+    <string name="txtHoriz">Introduzca desplazamiento horizontal</string>
+    <string name="txtVert">Introduzca desplazamiento vertical</string>
+    <string name="txtToast">Indica el texto que llevará el toast</string>
+    <string name="txtRadioGroupHoriz">Alineación Horizontal</string>
+    <string name="radioButtonIzquierda">Izquierda</string>
+    <string name="radioButtonMedio">Medio</string>
+    <string name="radioButtonDerecha">Derecha</string>
+    <string name="txtRadioGroupVert">Alineación Vertical</string>
+    <string name="radioButtonArriba">Arriba</string>
+    <string name="radioButtonCentro">Centro</string>
+    <string name="radioButtonAbajo">Abajo</string>
+    <string name="btnMostrar">Mostrar</string>
+    <!-- NOTIFICACION ACTIVITY-->
+    <string name="txtMensaje">Introduzca el título</string>
+    <string name="txtTextoMensaje">Introduzca el texto</string>
+    <string name="txtTiempoMensaje">Introduzca el tiempo</string>
+    <string name="btnEnviar">Enviar</string>
+</resources>
